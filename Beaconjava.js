@@ -17,14 +17,14 @@ window.onclick = function(event) {
 }
 function changeImage()
 {
-var img = document.getElementById("image");
+var img = document.getElementById("imagekort");
 img.src="ikea_kort.png";
 return false;
 }
 
 function changeImage2()
 {
-var img = document.getElementById("image");
+var img = document.getElementById("imagekort");
 img.src="Scone.png";
 return false;
 }
