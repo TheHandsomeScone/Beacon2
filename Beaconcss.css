@@ -8,23 +8,14 @@ img{
 	
 }
 
-#content{
-	width: auto;
-}
 
 .column {
   float: left;
   width: 100%;
-  padding: 5px;
-  margin: none;
+  padding: 0px;
+  margin-left: 0px;
+  margin-right: 0ppx;
   width: 100%;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
 }
 
 /* Dropdown Button */

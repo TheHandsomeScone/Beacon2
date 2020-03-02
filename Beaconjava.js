@@ -25,6 +25,6 @@ return false;
 function changeImage2()
 {
 var img = document.getElementById("imagekort");
-img.src="Scone.png";
+img.src="https://www.edrawsoft.com/template/mall-floor-plan.png?fbclid=IwAR2Yc3ai96sVPDALHATM0YXn0nWM6UTHNd3jqJON5OrNGuBTTMYH5-6C_UU";
 return false;
 }
