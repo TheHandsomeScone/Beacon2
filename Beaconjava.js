@@ -18,7 +18,7 @@ window.onclick = function(event) {
 function changeImage()
 {
 var img = document.getElementById("imagekort");
-img.src="ikea_kort.png";
+img.src="https://i.imgur.com/o5M7ceG.png";
 return false;
 }
 
