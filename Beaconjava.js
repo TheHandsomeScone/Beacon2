@@ -1,6 +1,6 @@
-function myFunction() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
+
+
+
 
 // Close the dropdown menu if the user clicks outside of it
 window.onclick = function(event) {
@@ -17,7 +17,7 @@ window.onclick = function(event) {
 }
 
 function changeImage(){
-var img = document.getElementById("imagekort");
+var   img = document.getElementById("imagekort");
 img.src="https://i.imgur.com/o5M7ceG.png";
 return false;
 }
